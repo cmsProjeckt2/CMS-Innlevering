@@ -1,0 +1,457 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gags Plugin\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-01-22 19:03+0700\n"
+"PO-Revision-Date: 2017-01-22 19:03+0700\n"
+"Last-Translator: ThemeWarrior <support@themewarrior.com>\n"
+"Language-Team: ThemeWarrior <support@themewarrior.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../public/js\n"
+
+#: ../admin/class-gags-plugin-settings.php:150
+msgid "Gags Options"
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:171
+msgid "General"
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:172
+msgid "Social Network Login"
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:173
+msgid "Google reCaptcha"
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:174
+msgid "Setup"
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:314
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:322
+msgid "Gag Post Slug"
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:542
+msgid ""
+"Go to <a href=\"https://developers.facebook.com\" target=\"_blank\">Facebook "
+"Developer</a> page to register an app to get App ID"
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:578
+msgid "Enter Singular Name Only"
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:708
+msgid ""
+"Go to <a href=\"https://developers.facebook.com\" target=\"_blank\">Facebook "
+"Developer</a> page to register an app to get App ID and App Secret."
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:743
+msgid ""
+"Go to <a href=\"https://dev.twitter.com\" target=\"_blank\">Twitter "
+"Developer</a> page to register an app to register an app to get Consumer Key "
+"and Consumer Secret."
+msgstr ""
+
+#: ../admin/class-gags-plugin-settings.php:983
+msgid ""
+"You can register for Google reCaptcha to obtain the Site Key and Secret Key. "
+"<a href=\"https://www.google.com/recaptcha\" target=\"_blank\">Register now</"
+"a>."
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:113
+msgid "Login with Facebook"
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:136
+msgid "Login with Twitter"
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:155
+msgid "Invalid username and/or password!"
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:159
+msgid "Username and/or Password is empty!"
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:163
+msgid "You are logged out!"
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:167
+msgid "You must be logged in!"
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:316
+#: ../includes/gags-plugin-core-functions.php:540
+msgid "Title field is required."
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:319
+#: ../includes/gags-plugin-core-functions.php:543
+msgid "Please select a gag category."
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:322
+msgid "Please upload your images or put your url images."
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:546
+msgid "Please input video embed url."
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:819
+msgid "Error"
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:1134
+msgid "Your profile has been updated!"
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:1278
+msgid " Lost Password"
+msgstr ""
+
+#: ../includes/gags-plugin-core-functions.php:1285
+msgid " Register"
+msgstr ""
+
+#: ../includes/post-type.php:107 ../templates/gags-submit.php:71
+#: ../templates/gags-submit.php:145
+msgid "NSFW - (Not Safe For Work)"
+msgstr ""
+
+#: ../templates/content-gag.php:93 ../templates/gags-dashboard.php:194
+msgid "View Full Post"
+msgstr ""
+
+#: ../templates/content-single-gag.php:18
+msgid "<strong>Horray!</strong> Your gags has been submitted."
+msgstr ""
+
+#: ../templates/gags-author.php:49 ../templates/gags-dashboard.php:49
+msgid "You don't have submitted gags."
+msgstr ""
+
+#: ../templates/gags-dashboard.php:21 ../templates/gags-user-info.php:39
+msgid "Posts"
+msgstr ""
+
+#: ../templates/gags-dashboard.php:22 ../templates/gags-user-info.php:44
+msgid "Comments"
+msgstr ""
+
+#: ../templates/gags-dashboard.php:23 ../templates/gags-user-info.php:49
+msgid "Likes"
+msgstr ""
+
+#: ../templates/gags-dashboard.php:114
+msgid " commented:"
+msgstr ""
+
+#: ../templates/gags-dashboard.php:250
+msgid "You don't have commented gags."
+msgstr ""
+
+#: ../templates/gags-dashboard.php:294
+msgid "You don't have liked gags."
+msgstr ""
+
+#: ../templates/gags-dashboard.php:307
+msgid "You must be logged in to see your dashboard."
+msgstr ""
+
+#: ../templates/gags-edit-password.php:22
+msgid "Your password has been updated!"
+msgstr ""
+
+#: ../templates/gags-edit-password.php:30 ../templates/gags-register.php:62
+msgid "Password"
+msgstr ""
+
+#: ../templates/gags-edit-password.php:33 ../templates/gags-register.php:63
+msgid "Repeat password"
+msgstr ""
+
+#: ../templates/gags-edit-password.php:37
+msgid "Update Password"
+msgstr ""
+
+#: ../templates/gags-edit-password.php:46
+#: ../templates/gags-edit-profile.php:109
+msgid "You must be logged in to edit a profile"
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:24 ../templates/gags-edit-profile.php:25
+#: ../templates/gags-register.php:45
+msgid "First name"
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:30 ../templates/gags-edit-profile.php:31
+#: ../templates/gags-register.php:46
+msgid "Last name"
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:36 ../templates/gags-edit-profile.php:37
+msgid "Nickname"
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:42
+msgid "Email"
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:43
+msgid "Email (Optional)"
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:49
+msgid "User profile"
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:53
+msgid ""
+"Go to <a href=\"https://gravatar.com\" target=\"_blank\">Gravatar</a> to "
+"change your profile picture."
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:59
+msgid "Display name"
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:94 ../templates/gags-edit-profile.php:95
+msgid "Short description"
+msgstr ""
+
+#: ../templates/gags-edit-profile.php:102
+msgid "Update Profile"
+msgstr ""
+
+#: ../templates/gags-lost-password.php:21
+msgid ""
+"Please enter your email address. You will receive a link to create a new "
+"password via email."
+msgstr ""
+
+#: ../templates/gags-lost-password.php:32
+msgid "Get New Password"
+msgstr ""
+
+#: ../templates/gags-popular-gags.php:44 ../widgets/gags-popular.php:93
+msgid "No popular gags found."
+msgstr ""
+
+#: ../templates/gags-recent-gags.php:31 ../widgets/gags-recent.php:78
+msgid "No recent gags found."
+msgstr ""
+
+#: ../templates/gags-register.php:23
+msgid ""
+"<strong>Horray!</strong> Your registration is completed !, please login to "
+"submit your gag, thank you."
+msgstr ""
+
+#: ../templates/gags-register.php:41
+msgid "Profile Information"
+msgstr ""
+
+#: ../templates/gags-register.php:50
+msgid "Email address"
+msgstr ""
+
+#: ../templates/gags-register.php:54
+msgid "Login Information"
+msgstr ""
+
+#: ../templates/gags-register.php:58
+msgid "Username"
+msgstr ""
+
+#: ../templates/gags-register.php:84
+msgid "Register"
+msgstr ""
+
+#: ../templates/gags-register.php:92
+msgid "<strong>Oops!</strong> Sorry, registration is disabled."
+msgstr ""
+
+#: ../templates/gags-search.php:29
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: ../templates/gags-search.php:31
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../templates/gags-submit.php:21
+msgid "Image"
+msgstr ""
+
+#: ../templates/gags-submit.php:22
+msgid "Video"
+msgstr ""
+
+#: ../templates/gags-submit.php:37 ../templates/gags-submit.php:110
+msgid "Title"
+msgstr ""
+
+#: ../templates/gags-submit.php:67 ../templates/gags-submit.php:141
+msgid "Description"
+msgstr ""
+
+#: ../templates/gags-submit.php:75 ../templates/gags-submit.php:149
+msgid "Separate each tags with coma (,)"
+msgstr ""
+
+#: ../templates/gags-submit.php:80
+msgid "Image Url"
+msgstr ""
+
+#: ../templates/gags-submit.php:86 ../templates/gags-submit.php:154
+msgid "Submit"
+msgstr ""
+
+#: ../templates/gags-submit.php:103
+msgid "Video Embed Url"
+msgstr ""
+
+#: ../templates/gags-submit.php:104
+msgid ""
+"Only support video embeded from YouTube, Vimeo, Hulu, DailyMotion, "
+"FunnyOrDie, Flickr, Tumblr & Vine"
+msgstr ""
+
+#: ../templates/gags-submit.php:168
+msgid "You must be logged in to submit new gag."
+msgstr ""
+
+#: ../templates/gags-trending-gags.php:44 ../widgets/gags-trending.php:92
+msgid "No trending gags found."
+msgstr ""
+
+#: ../templates/taxonomy-gag_category.php:34
+#: ../templates/taxonomy-gag_tag.php:33
+msgid "You don't have submitted links."
+msgstr ""
+
+#: ../widgets/gags-categories.php:97 ../widgets/gags-popular.php:117
+#: ../widgets/gags-recent.php:100 ../widgets/gags-top-users.php:96
+#: ../widgets/gags-trending.php:114
+msgid "Widget Title:"
+msgstr ""
+
+#: ../widgets/gags-popular.php:121 ../widgets/gags-recent.php:104
+#: ../widgets/gags-trending.php:118
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../widgets/gags-popular.php:125 ../widgets/gags-recent.php:108
+#: ../widgets/gags-trending.php:122
+msgid "Post Title Limiter"
+msgstr ""
+
+#: ../widgets/gags-popular.php:127 ../widgets/gags-recent.php:110
+#: ../widgets/gags-trending.php:124
+msgid ""
+"The post title will be trim after reaching the number of characters defined."
+msgstr ""
+
+#: ../widgets/gags-popular.php:131 ../widgets/gags-top-users.php:105
+#: ../widgets/gags-trending.php:127
+msgid "Post Date Range:"
+msgstr ""
+
+#: ../widgets/gags-popular.php:134 ../widgets/gags-top-users.php:108
+#: ../widgets/gags-trending.php:130
+msgid "1 day ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:135 ../widgets/gags-top-users.php:109
+#: ../widgets/gags-trending.php:131
+msgid "2 days ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:136 ../widgets/gags-top-users.php:110
+#: ../widgets/gags-trending.php:132
+msgid "3 days ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:137 ../widgets/gags-top-users.php:111
+#: ../widgets/gags-trending.php:133
+msgid "4 days ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:138 ../widgets/gags-top-users.php:112
+#: ../widgets/gags-trending.php:134
+msgid "5 days ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:139 ../widgets/gags-top-users.php:113
+#: ../widgets/gags-trending.php:135
+msgid "6 days ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:140 ../widgets/gags-top-users.php:115
+#: ../widgets/gags-trending.php:136
+msgid "1 week ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:141 ../widgets/gags-top-users.php:116
+#: ../widgets/gags-trending.php:137
+msgid "2 weeks ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:142 ../widgets/gags-top-users.php:117
+#: ../widgets/gags-trending.php:138
+msgid "1 month ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:143 ../widgets/gags-top-users.php:118
+#: ../widgets/gags-trending.php:139
+msgid "2 months ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:144 ../widgets/gags-top-users.php:119
+#: ../widgets/gags-trending.php:140
+msgid "3 months ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:145 ../widgets/gags-top-users.php:120
+#: ../widgets/gags-trending.php:141
+msgid "6 months ago"
+msgstr ""
+
+#: ../widgets/gags-popular.php:146 ../widgets/gags-top-users.php:121
+#: ../widgets/gags-trending.php:142
+msgid "1 year ago"
+msgstr ""
+
+#: ../widgets/gags-top-users.php:100
+msgid "Number of user to display:"
+msgstr ""
+
+#: ../widgets/gags-top-users.php:114
+msgid "7 days ago"
+msgstr ""

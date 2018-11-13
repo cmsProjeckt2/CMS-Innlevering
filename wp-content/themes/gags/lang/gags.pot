@@ -1,0 +1,409 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gags (1..0)\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-02-06 11:05+0700\n"
+"PO-Revision-Date: 2017-02-06 11:05+0700\n"
+"Last-Translator: ThemeWarrior <support@themewarrior.com>\n"
+"Language-Team: ThemeWarrior <support@themewarrior.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17 ../content-none.php:12
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: ../404.php:19 ../content-none.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../author.php:22 ../includes/user-info.php:37
+msgid "Posts"
+msgstr ""
+
+#: ../author.php:23 ../includes/user-info.php:42
+msgid "Comments"
+msgstr ""
+
+#: ../author.php:62
+msgid "You don't have submitted posts."
+msgstr ""
+
+#: ../author.php:173
+msgid "You don't have commented posts."
+msgstr ""
+
+#: ../comments.php:39
+msgid "Leave Your Comment"
+msgstr ""
+
+#: ../comments.php:47
+#, php-format
+msgid ""
+"You are logged in as <a href=\"%1$s\">%2$s</a> &#8212; <a href=\"%3$s"
+"\">Logout &raquo;</a>"
+msgstr ""
+
+#: ../content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../footer.php:23
+#, php-format
+msgid "&copy; Copyright %2$s %1$s."
+msgstr ""
+
+#: ../footer.php:24
+msgid "Theme by"
+msgstr ""
+
+#: ../footer.php:24
+msgid " ThemeWarrior"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../functions/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../functions/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:394
+#: ../functions/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../functions/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../functions/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../functions/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. translators: %s: version number
+#: ../functions/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../functions/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../functions/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../functions/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../functions/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../functions/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../functions/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../functions/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../functions/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../functions/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:97
+#: ../functions/theme-functions/theme-functions.php:130
+msgid ""
+"Your comment is now awaiting moderation before it will appear on this post."
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:276
+msgid "Share"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1646
+msgid ""
+"<p>If you like this theme, please consider giving it a 5 star rating on "
+"ThemeForest. <a href=\"http://themeforest.net/downloads\" target=\"_blank"
+"\">Rate now</a>.</p>"
+msgstr ""
+
+#: ../gags-templates/gags-popular-gags.php:50
+msgid "No popular gags found."
+msgstr ""
+
+#: ../gags-templates/gags-recent-gags.php:37
+msgid "No recent gags found."
+msgstr ""
+
+#: ../gags-templates/gags-trending-gags.php:51
+msgid "No trending gags found."
+msgstr ""
+
+#: ../header.php:56 ../header.php:118
+msgid "Upload"
+msgstr ""
+
+#: ../header.php:65
+msgid "Login"
+msgstr ""
+
+#: ../header.php:71
+msgid "Register"
+msgstr ""
+
+#: ../includes/user-info.php:47
+msgid "Likes"
+msgstr ""
+
+#: ../includes/widgets/gags-category-list.php:97
+#: ../includes/widgets/gags-custom-menu.php:65
+msgid "Widget Title:"
+msgstr ""
+
+#: ../includes/widgets/gags-custom-menu.php:60
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../includes/widgets/gags-custom-menu.php:69
+msgid "Select Menu : "
+msgstr ""
+
+#: ../searchform.php:14
+msgid "Type and hit enter..."
+msgstr ""
+
+#: ../yarpp-template-related-images.php:11
+msgid "Related Gags"
+msgstr ""
+
+#: ../yarpp-template-related-images.php:33
+msgid "No related gag."
+msgstr ""
